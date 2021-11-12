@@ -1,0 +1,23 @@
+{
+  "name": "@cssfn/types",
+  "version": "1.0.0",
+  "description": "Common typescript definitions.",
+  "main": "dist/types.js",
+  "types": "dist/types.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cssfn/types.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "heymarco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cssfn/types/issues"
+  },
+  "homepage": "https://github.com/cssfn/types#readme"
+}
